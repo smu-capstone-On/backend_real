@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Gradle: org.projectlombok:lombok:1.18.30">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.30/f195ee86e6c896ea47a1d39defbe20eb59cd149d/lombok-1.18.30.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-data-jpa:3.2.4">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-data-jpa/3.2.4/d8c5f393d9b18d96021b3e02d80e4356c5cbe0f7/spring-boot-starter-data-jpa-3.2.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-validation:3.2.4">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-validation/3.2.4/5f43697d1f24a19414bcaec3733dab5b6c24d1da/spring-boot-starter-validation-3.2.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-websocket:3.2.4">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-websocket/3.2.4/fd02f6a9ccbc66cf84c498d0eb4e8367a400769c/spring-boot-starter-websocket-3.2.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-web:3.2.4">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-web/3.2.4/a74df12b71060da7c8e87f9a8c2ef4ea43fc8017/spring-boot-starter-web-3.2.4.jar" />
+  </library>
+  <library name="Gradle: com.googlecode.json-simple:json-simple:1.1.1">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/com.googlecode.json-simple/json-simple/1.1.1/c9ad4a0850ab676c5c64461a05ca524cdfff59f1/json-simple-1.1.1.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-security:3.2.4">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-security/3.2.4/a1b9f09832c42c6c079be67bf3e7989c54a338ff/spring-boot-starter-security-3.2.4.jar" />
+  </library>
+  <library name="Gradle: io.jsonwebtoken:jjwt-impl:0.12.3">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/io.jsonwebtoken/jjwt-impl/0.12.3/e850d2b3f53bd82355cd9ee1c471054aa602b320/jjwt-impl-0.12.3.jar" />
+  </library>
+  <library name="Gradle: io.jsonwebtoken:jjwt-jackson:0.12.3">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/io.jsonwebtoken/jjwt-jackson/0.12.3/5e6d0e45441547d892d3273a4ce5dd042e91d162/jjwt-jackson-0.12.3.jar" />
+  </library>
+  <library name="Gradle: io.jsonwebtoken:jjwt-api:0.12.3">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/io.jsonwebtoken/jjwt-api/0.12.3/30b7de9176d17fa347eef14b85480825dab76b58/jjwt-api-0.12.3.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-oauth2-client:3.2.4">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-oauth2-client/3.2.4/df97ea80dcbe38200d9222dbc14a50b79e44fc65/spring-boot-starter-oauth2-client-3.2.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-mail:3.2.4">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-mail/3.2.4/59da49b730be336c4834b7fa54e455f8b35ee8a5/spring-boot-starter-mail-3.2.4.jar" />
+  </library>
+  <library name="Gradle: io.springfox:springfox-swagger-ui:2.9.2">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/io.springfox/springfox-swagger-ui/2.9.2/d542382a88ff3ea8d4032c28b2b0325797fada7d/springfox-swagger-ui-2.9.2.jar" />
+  </library>
+  <library name="Gradle: io.springfox:springfox-swagger2:2.9.2">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/io.springfox/springfox-swagger2/2.9.2/362676bc7f4c6f9f1d568741becab0dfc198c898/springfox-swagger2-2.9.2.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-aop:3.2.4">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-aop/3.2.4/11aedc0a23c43947608f2122eed08eabe5e2994c/spring-boot-starter-aop-3.2.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-jdbc:3.2.4">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-jdbc/3.2.4/7dd399e7ba19d62cae32be6e20edac37ff8fcbc0/spring-boot-starter-jdbc-3.2.4.jar" />
+  </library>
+  <library name="Gradle: org.hibernate.orm:hibernate-core:6.4.4.Final">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.hibernate.orm/hibernate-core/6.4.4.Final/5c9decb3c5a70bf7801d41fc32633416c26be069/hibernate-core-6.4.4.Final.jar" />
+  </library>
+  <library name="Gradle: org.springframework.data:spring-data-jpa:3.2.4">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/3.2.4/1932f90c487999575b57ad41986de96c8ebf5843/spring-data-jpa-3.2.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework:spring-aspects:6.1.5">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aspects/6.1.5/202d9da55e24fec2eda80bbc3cd87fbefc0e1256/spring-aspects-6.1.5.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-starter:3.2.4">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/3.2.4/842cf7f0ed2ecfef3011f3191fc53c59ceed752/spring-boot-starter-3.2.4.jar" />
+  </library>
+  <library name="Gradle: org.apache.tomcat.embed:tomcat-embed-el:10.1.19">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-el/10.1.19/c61a582c391aca130884a5421deedfe1a96c7415/tomcat-embed-el-10.1.19.jar" />
+  </library>
+  <library name="Gradle: org.hibernate.validator:hibernate-validator:8.0.1.Final">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.hibernate.validator/hibernate-validator/8.0.1.Final/e49e116b3d3928060599b176b3538bb848718e95/hibernate-validator-8.0.1.Final.jar" />
+  </library>
+  <library name="Gradle: org.springframework:spring-websocket:6.1.5">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework/spring-websocket/6.1.5/1e23e4966b23e049315bbaafbc57bafca01c7c80/spring-websocket-6.1.5.jar" />
+  </library>
+  <library name="Gradle: org.springframework:spring-messaging:6.1.5">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework/spring-messaging/6.1.5/d3b0857d07b167a124100c43a41296b07f09388f/spring-messaging-6.1.5.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-json:3.2.4">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-json/3.2.4/ef3f72369ce7f6f7a7b02c0b23e60ef5bdf581b1/spring-boot-starter-json-3.2.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-tomcat:3.2.4">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/3.2.4/ffa632eeaaf1a4e807ec4bbcc1938f7d43096472/spring-boot-starter-tomcat-3.2.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework:spring-webmvc:6.1.5">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/6.1.5/92809fce136e0b662dc9325529443386ba5ec2c6/spring-webmvc-6.1.5.jar" />
+  </library>
+  <library name="Gradle: org.springframework:spring-web:6.1.5">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/6.1.5/4f4e92cc52ee33260f1ee0cdc7b7a2f22d49708c/spring-web-6.1.5.jar" />
+  </library>
+  <library name="Gradle: junit:junit:4.13.2">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/junit/junit/4.13.2/8ac9e16d933b6fb43bc7f576336b8f4d7eb5ba12/junit-4.13.2.jar" />
+  </library>
+  <library name="Gradle: org.springframework.security:spring-security-web:6.2.3">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-web/6.2.3/d560c082805438b749e4e9267916ca7f1f0a430d/spring-security-web-6.2.3.jar" />
+  </library>
+  <library name="Gradle: org.springframework.security:spring-security-config:6.2.3">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/6.2.3/281d0393358b963147b5499789ad211f7362d460/spring-security-config-6.2.3.jar" />
+  </library>
+  <library name="Gradle: org.springframework:spring-aop:6.1.5">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/6.1.5/a4f596bd3c55b6cec93f0e2e7245dd0bab8afec3/spring-aop-6.1.5.jar" />
+  </library>
+  <library name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.15.4">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.15.4/560309fc381f77d4d15c4a4cdaa0db5025c4fd13/jackson-databind-2.15.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework.security:spring-security-oauth2-client:6.2.3">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/6.2.3/bd1be79192dcf63134440bc7725104f2940ef483/spring-security-oauth2-client-6.2.3.jar" />
+  </library>
+  <library name="Gradle: org.springframework.security:spring-security-oauth2-jose:6.2.3">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-jose/6.2.3/9ab34c03d825afd147445423b1f1abfbfbef0862/spring-security-oauth2-jose-6.2.3.jar" />
+  </library>
+  <library name="Gradle: org.springframework.security:spring-security-core:6.2.3">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/6.2.3/52f2751381dcfad2c8cd2bfb4c7ca7b1adf2ea5e/spring-security-core-6.2.3.jar" />
+  </library>
+  <library name="Gradle: org.springframework:spring-context-support:6.1.5">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context-support/6.1.5/38f29233f0acff569e26dcf9ec7c0aa11dc023a/spring-context-support-6.1.5.jar" />
+  </library>
+  <library name="Gradle: org.eclipse.angus:jakarta.mail:2.0.3">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.eclipse.angus/jakarta.mail/2.0.3/3dea6aeee9603f573687b0d4da5dc1316d921bb7/jakarta.mail-2.0.3.jar" />
+  </library>
+  <library name="Gradle: io.springfox:springfox-spring-web:2.9.2">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/io.springfox/springfox-spring-web/2.9.2/ed2ed714a6cba8804d00f80f0534901e4c7a3211/springfox-spring-web-2.9.2.jar" />
+  </library>
+  <library name="Gradle: io.springfox:springfox-swagger-common:2.9.2">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/io.springfox/springfox-swagger-common/2.9.2/b38a41b3044af80cb7f41f67be5d158c9f6491ec/springfox-swagger-common-2.9.2.jar" />
+  </library>
+  <library name="Gradle: io.springfox:springfox-schema:2.9.2">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/io.springfox/springfox-schema/2.9.2/e268f38774b16bb51a92ccaef0dcf3dc651c0cee/springfox-schema-2.9.2.jar" />
+  </library>
+  <library name="Gradle: io.springfox:springfox-spi:2.9.2">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/io.springfox/springfox-spi/2.9.2/6ac686190a6ceaccdae8b50d03b0501d144a6666/springfox-spi-2.9.2.jar" />
+  </library>
+  <library name="Gradle: org.springframework.plugin:spring-plugin-metadata:1.2.0.RELEASE">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework.plugin/spring-plugin-metadata/1.2.0.RELEASE/97223fc496b6cab31602eedbd4202aa4fff0d44f/spring-plugin-metadata-1.2.0.RELEASE.jar" />
+  </library>
+  <library name="Gradle: org.springframework.plugin:spring-plugin-core:1.2.0.RELEASE">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework.plugin/spring-plugin-core/1.2.0.RELEASE/f380e7760032e7d929184f8ad8a33716b75c0657/spring-plugin-core-1.2.0.RELEASE.jar" />
+  </library>
+  <library name="Gradle: io.swagger:swagger-models:1.5.20">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/io.swagger/swagger-models/1.5.20/fb3a23bad80c5ed84db9dd150db2cba699531458/swagger-models-1.5.20.jar" />
+  </library>
+  <library name="Gradle: io.swagger:swagger-annotations:1.5.20">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/io.swagger/swagger-annotations/1.5.20/16051f93ce11ca489a5313775d825f82fcc2cd6c/swagger-annotations-1.5.20.jar" />
+  </library>
+  <library name="Gradle: com.google.guava:guava:20.0">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/20.0/89507701249388e1ed5ddcf8c41f4ce1be7831ef/guava-20.0.jar" />
+  </library>
+  <library name="Gradle: com.fasterxml:classmate:1.6.0">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/com.fasterxml/classmate/1.6.0/91affab6f84a2182fce5dd72a8d01bc14346dddd/classmate-1.6.0.jar" />
+  </library>
+  <library name="Gradle: org.slf4j:slf4j-api:2.0.12">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/2.0.12/48f109a2a6d8f446c794f3e3fa0d86df0cdfa312/slf4j-api-2.0.12.jar" />
+  </library>
+  <library name="Gradle: org.mapstruct:mapstruct:1.2.0.Final">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.mapstruct/mapstruct/1.2.0.Final/8609d6eb044e9f6c73cb24c8f2f4ed5c72a249c7/mapstruct-1.2.0.Final.jar" />
+  </library>
+  <library name="Gradle: org.aspectj:aspectjweaver:1.9.21">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.9.21/beaabaea95c7f3330f415c72ee0ffe79b51d172f/aspectjweaver-1.9.21.jar" />
+  </library>
+  <library name="Gradle: com.zaxxer:HikariCP:5.0.1">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/com.zaxxer/HikariCP/5.0.1/a74c7f0a37046846e88d54f7cb6ea6d565c65f9c/HikariCP-5.0.1.jar" />
+  </library>
+  <library name="Gradle: org.springframework:spring-jdbc:6.1.5">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/6.1.5/e8617dcddd3377c809b3e62c325fcb923163cb20/spring-jdbc-6.1.5.jar" />
+  </library>
+  <library name="Gradle: jakarta.persistence:jakarta.persistence-api:3.1.0">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/jakarta.persistence/jakarta.persistence-api/3.1.0/66901fa1c373c6aff65c13791cc11da72060a8d6/jakarta.persistence-api-3.1.0.jar" />
+  </library>
+  <library name="Gradle: jakarta.transaction:jakarta.transaction-api:2.0.1">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/jakarta.transaction/jakarta.transaction-api/2.0.1/51a520e3fae406abb84e2e1148e6746ce3f80a1a/jakarta.transaction-api-2.0.1.jar" />
+  </library>
+  <library name="Gradle: org.springframework:spring-context:6.1.5">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/6.1.5/735d1bd7372d7c53e7b31b4a9c980ce2e0b26424/spring-context-6.1.5.jar" />
+  </library>
+  <library name="Gradle: org.springframework.data:spring-data-commons:3.2.4">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/3.2.4/c934470822afb9f0751915b229d6fe28ff5e1ac2/spring-data-commons-3.2.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework:spring-orm:6.1.5">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework/spring-orm/6.1.5/d2dc2b996680fcc8ae5aea294f0ce6bda5577c7c/spring-orm-6.1.5.jar" />
+  </library>
+  <library name="Gradle: org.springframework:spring-tx:6.1.5">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/6.1.5/90e95f4c3e30f9ecaef6ba53186ed21afebba618/spring-tx-6.1.5.jar" />
+  </library>
+  <library name="Gradle: org.springframework:spring-beans:6.1.5">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/6.1.5/9ae967f467281c9bb977585ef4d5ea7351704d60/spring-beans-6.1.5.jar" />
+  </library>
+  <library name="Gradle: org.springframework:spring-core:6.1.5">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/6.1.5/6dae1b06ffacbb9abab636be2dbc6acd3b6e5d68/spring-core-6.1.5.jar" />
+  </library>
+  <library name="Gradle: org.antlr:antlr4-runtime:4.13.0">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4-runtime/4.13.0/5a02e48521624faaf5ff4d99afc88b01686af655/antlr4-runtime-4.13.0.jar" />
+  </library>
+  <library name="Gradle: jakarta.annotation:jakarta.annotation-api:2.1.1">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/jakarta.annotation/jakarta.annotation-api/2.1.1/48b9bda22b091b1f48b13af03fe36db3be6e1ae3/jakarta.annotation-api-2.1.1.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-autoconfigure:3.2.4">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/3.2.4/b3f481aff8f0775f44d78399c804a8c52d75b971/spring-boot-autoconfigure-3.2.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot:3.2.4">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/3.2.4/ccb7cbb30dcf1d91dbbf20a3219a457eead46601/spring-boot-3.2.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-logging:3.2.4">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/3.2.4/32616f4a33ec0fda0c54aaa67ab10dc78df3fd78/spring-boot-starter-logging-3.2.4.jar" />
+  </library>
+  <library name="Gradle: org.yaml:snakeyaml:2.2">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/2.2/3af797a25458550a16bf89acc8e4ab2b7f2bfce0/snakeyaml-2.2.jar" />
+  </library>
+  <library name="Gradle: jakarta.validation:jakarta.validation-api:3.0.2">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/jakarta.validation/jakarta.validation-api/3.0.2/92b6631659ba35ca09e44874d3eb936edfeee532/jakarta.validation-api-3.0.2.jar" />
+  </library>
+  <library name="Gradle: org.jboss.logging:jboss-logging:3.5.3.Final">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.5.3.Final/c88fc1d8a96d4c3491f55d4317458ccad53ca663/jboss-logging-3.5.3.Final.jar" />
+  </library>
+  <library name="Gradle: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.15.4">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.15.4/7de629770a4559db57128d35ccae7d2fddd35db3/jackson-datatype-jsr310-2.15.4.jar" />
+  </library>
+  <library name="Gradle: com.fasterxml.jackson.module:jackson-module-parameter-names:2.15.4">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-parameter-names/2.15.4/e654497a08359db2521b69b5f710e00836915d8c/jackson-module-parameter-names-2.15.4.jar" />
+  </library>
+  <library name="Gradle: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.15.4">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.15.4/694777f182334a21bf1aeab1b04cc4398c801f3f/jackson-datatype-jdk8-2.15.4.jar" />
+  </library>
+  <library name="Gradle: org.apache.tomcat.embed:tomcat-embed-websocket:10.1.19">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/10.1.19/adf4710fac2471236f8a466ca678cdf7e6a8257c/tomcat-embed-websocket-10.1.19.jar" />
+  </library>
+  <library name="Gradle: org.apache.tomcat.embed:tomcat-embed-core:10.1.19">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/10.1.19/3dbbca8acbd4dd6a137c3d6f934a2931512b42ce/tomcat-embed-core-10.1.19.jar" />
+  </library>
+  <library name="Gradle: org.springframework:spring-expression:6.1.5">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/6.1.5/7e21cb1c6bbef1509e12d485b75ffc61278d9fa7/spring-expression-6.1.5.jar" />
+  </library>
+  <library name="Gradle: io.micrometer:micrometer-observation:1.12.4">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-observation/1.12.4/492deebbd9b8ab23f588428f66578e21af266e01/micrometer-observation-1.12.4.jar" />
+  </library>
+  <library name="Gradle: org.hamcrest:hamcrest-core:2.2">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/2.2/3f2bd07716a31c395e2837254f37f21f0f0ab24b/hamcrest-core-2.2.jar" />
+  </library>
+  <library name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.15.4">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.15.4/5223ea5a9bf52cdc9c5e537a0e52f2432eaf208b/jackson-annotations-2.15.4.jar" />
+  </library>
+  <library name="Gradle: com.fasterxml.jackson.core:jackson-core:2.15.4">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.15.4/aebe84b45360debad94f692a4074c6aceb535fa0/jackson-core-2.15.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework.security:spring-security-oauth2-core:6.2.3">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-core/6.2.3/c7f84b6b878b82632fb7eb531a47ece54c726eca/spring-security-oauth2-core-6.2.3.jar" />
+  </library>
+  <library name="Gradle: com.nimbusds:oauth2-oidc-sdk:9.43.3">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/com.nimbusds/oauth2-oidc-sdk/9.43.3/31709dab9f6531cc5c8f0d7e50ed5ccf10127877/oauth2-oidc-sdk-9.43.3.jar" />
+  </library>
+  <library name="Gradle: com.nimbusds:nimbus-jose-jwt:9.24.4">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/com.nimbusds/nimbus-jose-jwt/9.24.4/29a1f6a00a4daa3e1873f6bf4f16ddf4d6fd6d37/nimbus-jose-jwt-9.24.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework.security:spring-security-crypto:6.2.3">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-crypto/6.2.3/dbe4e299636951e00f18223a1794806d75000e7d/spring-security-crypto-6.2.3.jar" />
+  </library>
+  <library name="Gradle: jakarta.activation:jakarta.activation-api:2.1.3">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/jakarta.activation/jakarta.activation-api/2.1.3/fa165bd70cda600368eee31555222776a46b881f/jakarta.activation-api-2.1.3.jar" />
+  </library>
+  <library name="Gradle: io.springfox:springfox-core:2.9.2">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/io.springfox/springfox-core/2.9.2/2e26f58939c594fb5c958c3a1c7bedf83d2f2702/springfox-core-2.9.2.jar" />
+  </library>
+  <library name="Gradle: org.springframework:spring-jcl:6.1.5">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/6.1.5/896ae3519327731589c6e77521656b50ae32d5b3/spring-jcl-6.1.5.jar" />
+  </library>
+  <library name="Gradle: ch.qos.logback:logback-classic:1.4.14">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.4.14/d98bc162275134cdf1518774da4a2a17ef6fb94d/logback-classic-1.4.14.jar" />
+  </library>
+  <library name="Gradle: org.apache.logging.log4j:log4j-to-slf4j:2.21.1">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-to-slf4j/2.21.1/d77b2ba81711ed596cd797cc2b5b5bd7409d841c/log4j-to-slf4j-2.21.1.jar" />
+  </library>
+  <library name="Gradle: org.slf4j:jul-to-slf4j:2.0.12">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/2.0.12/eb5f48f782b41cc881b0bf1fb4d88ae2ff6d5b93/jul-to-slf4j-2.0.12.jar" />
+  </library>
+  <library name="Gradle: io.micrometer:micrometer-commons:1.12.4">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-commons/1.12.4/a57f10c78956b38087f97beae66cf14cb8b08d34/micrometer-commons-1.12.4.jar" />
+  </library>
+  <library name="Gradle: org.hamcrest:hamcrest:2.2">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest/2.2/1820c0968dba3a11a1b30669bb1f01978a91dedc/hamcrest-2.2.jar" />
+  </library>
+  <library name="Gradle: com.github.stephenc.jcip:jcip-annotations:1.0-1">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/com.github.stephenc.jcip/jcip-annotations/1.0-1/ef31541dd28ae2cefdd17c7ebf352d93e9058c63/jcip-annotations-1.0-1.jar" />
+  </library>
+  <library name="Gradle: com.nimbusds:content-type:2.2">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/com.nimbusds/content-type/2.2/9a894bce7646dd4086652d85b88013229f23724b/content-type-2.2.jar" />
+  </library>
+  <library name="Gradle: net.minidev:json-smart:2.5.0">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/2.5.0/57a64f421b472849c40e77d2e7cce3a141b41e99/json-smart-2.5.0.jar" />
+  </library>
+  <library name="Gradle: com.nimbusds:lang-tag:1.7">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/com.nimbusds/lang-tag/1.7/97c73ecd70bc7e8eefb26c5eea84f251a63f1031/lang-tag-1.7.jar" />
+  </library>
+  <library name="Gradle: net.bytebuddy:byte-buddy:1.14.12">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy/1.14.12/6e37f743dc15a8d7a4feb3eb0025cbc612d5b9e1/byte-buddy-1.14.12.jar" />
+  </library>
+  <library name="Gradle: ch.qos.logback:logback-core:1.4.14">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.4.14/4d3c2248219ac0effeb380ed4c5280a80bf395e8/logback-core-1.4.14.jar" />
+  </library>
+  <library name="Gradle: org.apache.logging.log4j:log4j-api:2.21.1">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.21.1/74c65e87b9ce1694a01524e192d7be989ba70486/log4j-api-2.21.1.jar" />
+  </library>
+  <library name="Gradle: net.minidev:accessors-smart:2.5.0">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/net.minidev/accessors-smart/2.5.0/aca011492dfe9c26f4e0659028a4fe0970829dd8/accessors-smart-2.5.0.jar" />
+  </library>
+  <library name="Gradle: org.ow2.asm:asm:9.3">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/9.3/8e6300ef51c1d801a7ed62d07cd221aca3a90640/asm-9.3.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-devtools:3.2.4">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-devtools/3.2.4/ccd261700a4ff8e8f629a4d267f0b4f53ca17897/spring-boot-devtools-3.2.4.jar" />
+  </library>
+  <library name="Gradle: com.mysql:mysql-connector-j:8.3.0">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/com.mysql/mysql-connector-j/8.3.0/1cc7fa5d61f4bbc113531a4ba6d85d41cf3d57e1/mysql-connector-j-8.3.0.jar" />
+  </library>
+  <library name="Gradle: com.h2database:h2:2.2.224">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/com.h2database/h2/2.2.224/7bdade27d8cd197d9b5ce9dc251f41d2edc5f7ad/h2-2.2.224.jar" />
+  </library>
+  <library name="Gradle: org.hibernate.common:hibernate-commons-annotations:6.0.6.Final">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.hibernate.common/hibernate-commons-annotations/6.0.6.Final/77a5f94b56d49508e0ee334751db5b78e5ccd50c/hibernate-commons-annotations-6.0.6.Final.jar" />
+  </library>
+  <library name="Gradle: io.smallrye:jandex:3.1.2">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/io.smallrye/jandex/3.1.2/a6c1c89925c7df06242b03dddb353116ceb9584c/jandex-3.1.2.jar" />
+  </library>
+  <library name="Gradle: org.glassfish.jaxb:jaxb-runtime:4.0.5">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.glassfish.jaxb/jaxb-runtime/4.0.5/ca84c2a7169b5293e232b9d00d1e4e36d4c3914a/jaxb-runtime-4.0.5.jar" />
+  </library>
+  <library name="Gradle: jakarta.xml.bind:jakarta.xml.bind-api:4.0.2">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/jakarta.xml.bind/jakarta.xml.bind-api/4.0.2/6cd5a999b834b63238005b7144136379dc36cad2/jakarta.xml.bind-api-4.0.2.jar" />
+  </library>
+  <library name="Gradle: jakarta.inject:jakarta.inject-api:2.0.1">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/jakarta.inject/jakarta.inject-api/2.0.1/4c28afe1991a941d7702fe1362c365f0a8641d1e/jakarta.inject-api-2.0.1.jar" />
+  </library>
+  <library name="Gradle: org.eclipse.angus:angus-activation:2.0.2">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.eclipse.angus/angus-activation/2.0.2/41f1e0ddd157c856926ed149ab837d110955a9fc/angus-activation-2.0.2.jar" />
+  </library>
+  <library name="Gradle: org.glassfish.jaxb:jaxb-core:4.0.5">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.glassfish.jaxb/jaxb-core/4.0.5/7b4b11ea5542eea4ad55e1080b23be436795b3/jaxb-core-4.0.5.jar" />
+  </library>
+  <library name="Gradle: org.glassfish.jaxb:txw2:4.0.5">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.glassfish.jaxb/txw2/4.0.5/f36a4ef12120a9bb06d766d6a0e54b144fd7ed98/txw2-4.0.5.jar" />
+  </library>
+  <library name="Gradle: com.sun.istack:istack-commons-runtime:4.1.2">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/com.sun.istack/istack-commons-runtime/4.1.2/18ec117c85f3ba0ac65409136afa8e42bc74e739/istack-commons-runtime-4.1.2.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-test:3.2.4">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-test/3.2.4/b0d6d874f2e67861fe17a72435f288b9cc29d6a7/spring-boot-starter-test-3.2.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-test-autoconfigure:3.2.4">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-test-autoconfigure/3.2.4/4b566e3ed0d326b5b3158ec032c1fb570786fe4a/spring-boot-test-autoconfigure-3.2.4.jar" />
+  </library>
+  <library name="Gradle: org.springframework.boot:spring-boot-test:3.2.4">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-test/3.2.4/7c58670bfa752b6d3b03298d4657d34e11eb46bb/spring-boot-test-3.2.4.jar" />
+  </library>
+  <library name="Gradle: com.jayway.jsonpath:json-path:2.9.0">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/com.jayway.jsonpath/json-path/2.9.0/37fe2217f577b0b68b18e62c4d17a8858ecf9b69/json-path-2.9.0.jar" />
+  </library>
+  <library name="Gradle: org.assertj:assertj-core:3.24.2">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.24.2/ebbf338e33f893139459ce5df023115971c2786f/assertj-core-3.24.2.jar" />
+  </library>
+  <library name="Gradle: org.awaitility:awaitility:4.2.0">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.awaitility/awaitility/4.2.0/2c39784846001a9cffd6c6b89c78de62c0d80fb8/awaitility-4.2.0.jar" />
+  </library>
+  <library name="Gradle: org.junit.jupiter:junit-jupiter:5.10.2">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter/5.10.2/831c0b86ddc2ce38391c5b81ea662b0cfdc02cce/junit-jupiter-5.10.2.jar" />
+  </library>
+  <library name="Gradle: org.mockito:mockito-junit-jupiter:5.7.0">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-junit-jupiter/5.7.0/ac2d6a3431747a7986b8f4abef465f72bf3a21ae/mockito-junit-jupiter-5.7.0.jar" />
+  </library>
+  <library name="Gradle: org.mockito:mockito-core:5.7.0">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/5.7.0/a1c258331ab91d66863c983aff7136357e9de056/mockito-core-5.7.0.jar" />
+  </library>
+  <library name="Gradle: org.skyscreamer:jsonassert:1.5.1">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.skyscreamer/jsonassert/1.5.1/6d842d0faf4cf6725c509a5e5347d319ee0431c3/jsonassert-1.5.1.jar" />
+  </library>
+  <library name="Gradle: org.springframework:spring-test:6.1.5">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/6.1.5/7713127b756a14bdaa363ab6fb52b5363139f779/spring-test-6.1.5.jar" />
+  </library>
+  <library name="Gradle: org.xmlunit:xmlunit-core:2.9.1">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.xmlunit/xmlunit-core/2.9.1/e5833662d9a1279a37da3ef6f62a1da29fcd68c4/xmlunit-core-2.9.1.jar" />
+  </library>
+  <library name="Gradle: org.junit.jupiter:junit-jupiter-params:5.10.2">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-params/5.10.2/359132c82a9d3fa87a325db6edd33b5fdc67a3d8/junit-jupiter-params-5.10.2.jar" />
+  </library>
+  <library name="Gradle: org.junit.jupiter:junit-jupiter-api:5.10.2">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.10.2/fb55d6e2bce173f35fd28422e7975539621055ef/junit-jupiter-api-5.10.2.jar" />
+  </library>
+  <library name="Gradle: net.bytebuddy:byte-buddy-agent:1.14.12">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy-agent/1.14.12/be4984cb6fd1ef1d11f218a648889dfda44b8a15/byte-buddy-agent-1.14.12.jar" />
+  </library>
+  <library name="Gradle: com.vaadin.external.google:android-json:0.0.20131108.vaadin1">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/com.vaadin.external.google/android-json/0.0.20131108.vaadin1/fa26d351fe62a6a17f5cda1287c1c6110dec413f/android-json-0.0.20131108.vaadin1.jar" />
+  </library>
+  <library name="Gradle: org.apiguardian:apiguardian-api:1.1.2">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.2/a231e0d844d2721b0fa1b238006d15c6ded6842a/apiguardian-api-1.1.2.jar" />
+  </library>
+  <library name="Gradle: org.junit.platform:junit-platform-commons:1.10.2">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.10.2/3197154a1f0c88da46c47a9ca27611ac7ec5d797/junit-platform-commons-1.10.2.jar" />
+  </library>
+  <library name="Gradle: org.opentest4j:opentest4j:1.3.0">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.3.0/152ea56b3a72f655d4fd677fc0ef2596c3dd5e6e/opentest4j-1.3.0.jar" />
+  </library>
+  <library name="Gradle: org.junit.jupiter:junit-jupiter-engine:5.10.2">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.10.2/f1f8fe97bd58e85569205f071274d459c2c4f8cd/junit-jupiter-engine-5.10.2.jar" />
+  </library>
+  <library name="Gradle: org.objenesis:objenesis:3.3">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/3.3/1049c09f1de4331e8193e579448d0916d75b7631/objenesis-3.3.jar" />
+  </library>
+  <library name="Gradle: org.junit.platform:junit-platform-engine:1.10.2">
+    <archive path="/Users/han-yong-u/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.10.2/d53bb4e0ce7f211a498705783440614bfaf0df2e/junit-platform-engine-1.10.2.jar" />
+  </library>
+  <library name="jquery-latest">
+    <archive path="/Users/han-yong-u/Library/Application Support/JetBrains/IntelliJIdea2024.2/javascript/extLibs/http_code.jquery.com_jquery-latest.js" />
+  </library>
+</eclipse-userlibraries>
+

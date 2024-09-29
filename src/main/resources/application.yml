@@ -1,0 +1,71 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+#    url: jdbc:mysql://34.231.37.92:3306/petshop?allowPublicKeyRetrieval=true&useSSL=false
+#    username: petshop
+#    password: petshop
+    url: jdbc:mysql://localhost:3306/petshop
+    username: root
+    password: rlarjs99
+    hikari:
+      connection-timeout: 50000
+      maximum-pool-size: 10
+      minimum-idle: 2
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        format_sql: true
+        dialect: org.hibernate.dialect.MySQL8Dialect
+
+  jwt:
+    secret: sdsajbcjasdgasddasdascasfxxrxxvjfyjdzardytd
+
+  security:
+    oauth2:
+      client:
+        registration:
+          kakao:
+            client-id: ff9ceddeab46bbdb2cd959ecdc4a8cf7
+            client-secret: j0UiZukPsWR7OnSwoEmJWcpGC8LlJWvu
+            redirect-uri: http://localhost:8080/login/oauth2/code/kakao
+            authorization-grant-type: authorization_code
+            client-authentication-method: client_secret_post
+            scope:
+              - profile_nickname
+            client-name: kakao
+
+        provider:
+          kakao:
+            authorization-uri: https://kauth.kakao.com/oauth/authorize
+            token-uri: https://kauth.kakao.com/oauth/token
+            user-info-uri: https://kapi.kakao.com/v2/user/me
+            user-name-attribute: id
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: nasms3489@gmail.com
+    password: bjnahholhymfkzbl
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+              enable: true
+
+  servlet:
+    multipart:
+      enabled: true
+      max-file-size: 10MB
+      max-request-size: 10MB
+  mvc:
+    view:
+      suffix: .html
+path:
+  image: /home/ubuntu/images # ec2 배포시
+
+logging.level:
+  org.hibernate.SQL: debug
+  org.hibernate.type: trace

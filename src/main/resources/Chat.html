@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>WebSocket Test</title>
+    <script src="https://cdn.jsdelivr.net/npm/sockjs-client/dist/sockjs.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/webstomp-client/dist/webstomp.min.js"></script>
+    <script type="text/javascript">
+        var stompClient = null;
+
+        function connect() {
+            var socket = new SockJS('/ws');
+            stompClient = webstomp.over(socket);
+
+            stompClient.connect({}, function (frame) {
+                console.log('Connected: ' + frame);
+
+                // 구독 예시
+                stompClient.subscribe('/queue/messages', function (message) {
+                    console.log("Message received: ", message.body);
+                });
+
+                // 메시지 보내기 예시
+                stompClient.send("/app/send/1", JSON.stringify({
+                    senderId: 1,
+                    content: "Hello",
+                    recipientId: 2
+                }));
+            }, function (error) {
+                console.log("STOMP error: ", error);
+            });
+        }
+
+        window.onload = function() {
+            connect();
+        };
+    </script>
+</head>
+<body>
+<h1>WebSocket Test</h1>
+</body>
+</html>
